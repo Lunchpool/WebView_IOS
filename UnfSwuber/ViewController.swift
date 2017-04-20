@@ -9,11 +9,14 @@
 import UIKit
 
 class ViewController: UIViewController {
+@IBOutlet weak var webView: UIWebView!
 
-    @IBOutlet weak var webView: UIWebView!
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        let url = URL(string: "https://unf-swuber.herokuapp.com");
+        let requestObj = URLRequest(url: url!);
+        webView.loadRequest(requestObj);
     }
 
     override func didReceiveMemoryWarning() {
