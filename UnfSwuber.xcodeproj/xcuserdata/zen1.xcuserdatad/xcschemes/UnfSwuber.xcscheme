@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "20C8C73A1EA90BB700A2C6C3"
-               BuildableName = "UnfSwuber.app"
-               BlueprintName = "UnfSwuber"
-               ReferencedContainer = "container:UnfSwuber.xcodeproj">
+               BuildableName = "Lunchpool.app"
+               BlueprintName = "Lunchpool"
+               ReferencedContainer = "container:Lunchpool.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "20C8C7511EA90BB700A2C6C3"
-               BuildableName = "UnfSwuberTests.xctest"
-               BlueprintName = "UnfSwuberTests"
-               ReferencedContainer = "container:UnfSwuber.xcodeproj">
+               BuildableName = "LunchpoolTests.xctest"
+               BlueprintName = "LunchpoolTests"
+               ReferencedContainer = "container:Lunchpool.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "20C8C75C1EA90BB700A2C6C3"
-               BuildableName = "UnfSwuberUITests.xctest"
-               BlueprintName = "UnfSwuberUITests"
-               ReferencedContainer = "container:UnfSwuber.xcodeproj">
+               BuildableName = "LunchpoolUITests.xctest"
+               BlueprintName = "LunchpoolUITests"
+               ReferencedContainer = "container:Lunchpool.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "20C8C73A1EA90BB700A2C6C3"
-            BuildableName = "UnfSwuber.app"
-            BlueprintName = "UnfSwuber"
-            ReferencedContainer = "container:UnfSwuber.xcodeproj">
+            BuildableName = "Lunchpool.app"
+            BlueprintName = "Lunchpool"
+            ReferencedContainer = "container:Lunchpool.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "20C8C73A1EA90BB700A2C6C3"
-            BuildableName = "UnfSwuber.app"
-            BlueprintName = "UnfSwuber"
-            ReferencedContainer = "container:UnfSwuber.xcodeproj">
+            BuildableName = "Lunchpool.app"
+            BlueprintName = "Lunchpool"
+            ReferencedContainer = "container:Lunchpool.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "20C8C73A1EA90BB700A2C6C3"
-            BuildableName = "UnfSwuber.app"
-            BlueprintName = "UnfSwuber"
-            ReferencedContainer = "container:UnfSwuber.xcodeproj">
+            BuildableName = "Lunchpool.app"
+            BlueprintName = "Lunchpool"
+            ReferencedContainer = "container:Lunchpool.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

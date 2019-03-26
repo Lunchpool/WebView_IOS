@@ -1,14 +1,14 @@
 //
-//  UnfSwuberUITests.swift
-//  UnfSwuberUITests
+//  LunchpoolUITests.swift
+//  LunchpoolUITests
 //
 //  Created by Michael Dimmitt on 4/20/17.
-//  Copyright © 2017 SwuberCorp. All rights reserved.
+//  Copyright © 2017 Lunchpool. All rights reserved.
 //
 
 import XCTest
 
-class UnfSwuberUITests: XCTestCase {
+class LunchpoolUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

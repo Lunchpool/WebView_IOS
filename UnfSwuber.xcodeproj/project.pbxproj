@@ -10,11 +10,11 @@
 		20C8C73F1EA90BB700A2C6C3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20C8C73E1EA90BB700A2C6C3 /* AppDelegate.swift */; };
 		20C8C7411EA90BB700A2C6C3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20C8C7401EA90BB700A2C6C3 /* ViewController.swift */; };
 		20C8C7441EA90BB700A2C6C3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20C8C7421EA90BB700A2C6C3 /* Main.storyboard */; };
-		20C8C7471EA90BB700A2C6C3 /* UnfSwuber.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 20C8C7451EA90BB700A2C6C3 /* UnfSwuber.xcdatamodeld */; };
+		20C8C7471EA90BB700A2C6C3 /* Lunchpool.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 20C8C7451EA90BB700A2C6C3 /* Lunchpool.xcdatamodeld */; };
 		20C8C7491EA90BB700A2C6C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20C8C7481EA90BB700A2C6C3 /* Assets.xcassets */; };
 		20C8C74C1EA90BB700A2C6C3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20C8C74A1EA90BB700A2C6C3 /* LaunchScreen.storyboard */; };
-		20C8C7571EA90BB700A2C6C3 /* UnfSwuberTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20C8C7561EA90BB700A2C6C3 /* UnfSwuberTests.swift */; };
-		20C8C7621EA90BB700A2C6C3 /* UnfSwuberUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20C8C7611EA90BB700A2C6C3 /* UnfSwuberUITests.swift */; };
+		20C8C7571EA90BB700A2C6C3 /* LunchpoolTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20C8C7561EA90BB700A2C6C3 /* LunchpoolTests.swift */; };
+		20C8C7621EA90BB700A2C6C3 /* LunchpoolUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20C8C7611EA90BB700A2C6C3 /* LunchpoolUITests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -23,31 +23,31 @@
 			containerPortal = 20C8C7331EA90BB700A2C6C3 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 20C8C73A1EA90BB700A2C6C3;
-			remoteInfo = UnfSwuber;
+			remoteInfo = Lunchpool;
 		};
 		20C8C75E1EA90BB700A2C6C3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 20C8C7331EA90BB700A2C6C3 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 20C8C73A1EA90BB700A2C6C3;
-			remoteInfo = UnfSwuber;
+			remoteInfo = Lunchpool;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		20C8C73B1EA90BB700A2C6C3 /* UnfSwuber.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UnfSwuber.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		20C8C73B1EA90BB700A2C6C3 /* Lunchpool.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lunchpool.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20C8C73E1EA90BB700A2C6C3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		20C8C7401EA90BB700A2C6C3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		20C8C7431EA90BB700A2C6C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		20C8C7461EA90BB700A2C6C3 /* UnfSwuber.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = UnfSwuber.xcdatamodel; sourceTree = "<group>"; };
+		20C8C7461EA90BB700A2C6C3 /* Lunchpool.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Lunchpool.xcdatamodel; sourceTree = "<group>"; };
 		20C8C7481EA90BB700A2C6C3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		20C8C74B1EA90BB700A2C6C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		20C8C74D1EA90BB700A2C6C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		20C8C7521EA90BB700A2C6C3 /* UnfSwuberTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UnfSwuberTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		20C8C7561EA90BB700A2C6C3 /* UnfSwuberTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnfSwuberTests.swift; sourceTree = "<group>"; };
+		20C8C7521EA90BB700A2C6C3 /* LunchpoolTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LunchpoolTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		20C8C7561EA90BB700A2C6C3 /* LunchpoolTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LunchpoolTests.swift; sourceTree = "<group>"; };
 		20C8C7581EA90BB700A2C6C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		20C8C75D1EA90BB700A2C6C3 /* UnfSwuberUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UnfSwuberUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		20C8C7611EA90BB700A2C6C3 /* UnfSwuberUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnfSwuberUITests.swift; sourceTree = "<group>"; };
+		20C8C75D1EA90BB700A2C6C3 /* LunchpoolUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LunchpoolUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		20C8C7611EA90BB700A2C6C3 /* LunchpoolUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LunchpoolUITests.swift; sourceTree = "<group>"; };
 		20C8C7631EA90BB700A2C6C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -79,9 +79,9 @@
 		20C8C7321EA90BB700A2C6C3 = {
 			isa = PBXGroup;
 			children = (
-				20C8C73D1EA90BB700A2C6C3 /* UnfSwuber */,
-				20C8C7551EA90BB700A2C6C3 /* UnfSwuberTests */,
-				20C8C7601EA90BB700A2C6C3 /* UnfSwuberUITests */,
+				20C8C73D1EA90BB700A2C6C3 /* Lunchpool */,
+				20C8C7551EA90BB700A2C6C3 /* LunchpoolTests */,
+				20C8C7601EA90BB700A2C6C3 /* LunchpoolUITests */,
 				20C8C73C1EA90BB700A2C6C3 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -89,14 +89,14 @@
 		20C8C73C1EA90BB700A2C6C3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				20C8C73B1EA90BB700A2C6C3 /* UnfSwuber.app */,
-				20C8C7521EA90BB700A2C6C3 /* UnfSwuberTests.xctest */,
-				20C8C75D1EA90BB700A2C6C3 /* UnfSwuberUITests.xctest */,
+				20C8C73B1EA90BB700A2C6C3 /* Lunchpool.app */,
+				20C8C7521EA90BB700A2C6C3 /* LunchpoolTests.xctest */,
+				20C8C75D1EA90BB700A2C6C3 /* LunchpoolUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		20C8C73D1EA90BB700A2C6C3 /* UnfSwuber */ = {
+		20C8C73D1EA90BB700A2C6C3 /* Lunchpool */ = {
 			isa = PBXGroup;
 			children = (
 				20C8C73E1EA90BB700A2C6C3 /* AppDelegate.swift */,
@@ -105,35 +105,35 @@
 				20C8C7481EA90BB700A2C6C3 /* Assets.xcassets */,
 				20C8C74A1EA90BB700A2C6C3 /* LaunchScreen.storyboard */,
 				20C8C74D1EA90BB700A2C6C3 /* Info.plist */,
-				20C8C7451EA90BB700A2C6C3 /* UnfSwuber.xcdatamodeld */,
+				20C8C7451EA90BB700A2C6C3 /* Lunchpool.xcdatamodeld */,
 			);
-			path = UnfSwuber;
+			path = Lunchpool;
 			sourceTree = "<group>";
 		};
-		20C8C7551EA90BB700A2C6C3 /* UnfSwuberTests */ = {
+		20C8C7551EA90BB700A2C6C3 /* LunchpoolTests */ = {
 			isa = PBXGroup;
 			children = (
-				20C8C7561EA90BB700A2C6C3 /* UnfSwuberTests.swift */,
+				20C8C7561EA90BB700A2C6C3 /* LunchpoolTests.swift */,
 				20C8C7581EA90BB700A2C6C3 /* Info.plist */,
 			);
-			path = UnfSwuberTests;
+			path = LunchpoolTests;
 			sourceTree = "<group>";
 		};
-		20C8C7601EA90BB700A2C6C3 /* UnfSwuberUITests */ = {
+		20C8C7601EA90BB700A2C6C3 /* LunchpoolUITests */ = {
 			isa = PBXGroup;
 			children = (
-				20C8C7611EA90BB700A2C6C3 /* UnfSwuberUITests.swift */,
+				20C8C7611EA90BB700A2C6C3 /* LunchpoolUITests.swift */,
 				20C8C7631EA90BB700A2C6C3 /* Info.plist */,
 			);
-			path = UnfSwuberUITests;
+			path = LunchpoolUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		20C8C73A1EA90BB700A2C6C3 /* UnfSwuber */ = {
+		20C8C73A1EA90BB700A2C6C3 /* Lunchpool */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 20C8C7661EA90BB700A2C6C3 /* Build configuration list for PBXNativeTarget "UnfSwuber" */;
+			buildConfigurationList = 20C8C7661EA90BB700A2C6C3 /* Build configuration list for PBXNativeTarget "Lunchpool" */;
 			buildPhases = (
 				20C8C7371EA90BB700A2C6C3 /* Sources */,
 				20C8C7381EA90BB700A2C6C3 /* Frameworks */,
@@ -143,14 +143,14 @@
 			);
 			dependencies = (
 			);
-			name = UnfSwuber;
-			productName = UnfSwuber;
-			productReference = 20C8C73B1EA90BB700A2C6C3 /* UnfSwuber.app */;
+			name = Lunchpool;
+			productName = Lunchpool;
+			productReference = 20C8C73B1EA90BB700A2C6C3 /* Lunchpool.app */;
 			productType = "com.apple.product-type.application";
 		};
-		20C8C7511EA90BB700A2C6C3 /* UnfSwuberTests */ = {
+		20C8C7511EA90BB700A2C6C3 /* LunchpoolTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 20C8C7691EA90BB700A2C6C3 /* Build configuration list for PBXNativeTarget "UnfSwuberTests" */;
+			buildConfigurationList = 20C8C7691EA90BB700A2C6C3 /* Build configuration list for PBXNativeTarget "LunchpoolTests" */;
 			buildPhases = (
 				20C8C74E1EA90BB700A2C6C3 /* Sources */,
 				20C8C74F1EA90BB700A2C6C3 /* Frameworks */,
@@ -161,14 +161,14 @@
 			dependencies = (
 				20C8C7541EA90BB700A2C6C3 /* PBXTargetDependency */,
 			);
-			name = UnfSwuberTests;
-			productName = UnfSwuberTests;
-			productReference = 20C8C7521EA90BB700A2C6C3 /* UnfSwuberTests.xctest */;
+			name = LunchpoolTests;
+			productName = LunchpoolTests;
+			productReference = 20C8C7521EA90BB700A2C6C3 /* LunchpoolTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		20C8C75C1EA90BB700A2C6C3 /* UnfSwuberUITests */ = {
+		20C8C75C1EA90BB700A2C6C3 /* LunchpoolUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 20C8C76C1EA90BB700A2C6C3 /* Build configuration list for PBXNativeTarget "UnfSwuberUITests" */;
+			buildConfigurationList = 20C8C76C1EA90BB700A2C6C3 /* Build configuration list for PBXNativeTarget "LunchpoolUITests" */;
 			buildPhases = (
 				20C8C7591EA90BB700A2C6C3 /* Sources */,
 				20C8C75A1EA90BB700A2C6C3 /* Frameworks */,
@@ -179,9 +179,9 @@
 			dependencies = (
 				20C8C75F1EA90BB700A2C6C3 /* PBXTargetDependency */,
 			);
-			name = UnfSwuberUITests;
-			productName = UnfSwuberUITests;
-			productReference = 20C8C75D1EA90BB700A2C6C3 /* UnfSwuberUITests.xctest */;
+			name = LunchpoolUITests;
+			productName = LunchpoolUITests;
+			productReference = 20C8C75D1EA90BB700A2C6C3 /* LunchpoolUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -192,7 +192,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
 				LastUpgradeCheck = 0830;
-				ORGANIZATIONNAME = SwuberCorp;
+				ORGANIZATIONNAME = Lunchpool;
 				TargetAttributes = {
 					20C8C73A1EA90BB700A2C6C3 = {
 						CreatedOnToolsVersion = 8.3.1;
@@ -210,7 +210,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 20C8C7361EA90BB700A2C6C3 /* Build configuration list for PBXProject "UnfSwuber" */;
+			buildConfigurationList = 20C8C7361EA90BB700A2C6C3 /* Build configuration list for PBXProject "Lunchpool" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -223,9 +223,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				20C8C73A1EA90BB700A2C6C3 /* UnfSwuber */,
-				20C8C7511EA90BB700A2C6C3 /* UnfSwuberTests */,
-				20C8C75C1EA90BB700A2C6C3 /* UnfSwuberUITests */,
+				20C8C73A1EA90BB700A2C6C3 /* Lunchpool */,
+				20C8C7511EA90BB700A2C6C3 /* LunchpoolTests */,
+				20C8C75C1EA90BB700A2C6C3 /* LunchpoolUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -263,7 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				20C8C7411EA90BB700A2C6C3 /* ViewController.swift in Sources */,
-				20C8C7471EA90BB700A2C6C3 /* UnfSwuber.xcdatamodeld in Sources */,
+				20C8C7471EA90BB700A2C6C3 /* Lunchpool.xcdatamodeld in Sources */,
 				20C8C73F1EA90BB700A2C6C3 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -272,7 +272,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				20C8C7571EA90BB700A2C6C3 /* UnfSwuberTests.swift in Sources */,
+				20C8C7571EA90BB700A2C6C3 /* LunchpoolTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,7 +280,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				20C8C7621EA90BB700A2C6C3 /* UnfSwuberUITests.swift in Sources */,
+				20C8C7621EA90BB700A2C6C3 /* LunchpoolUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -289,12 +289,12 @@
 /* Begin PBXTargetDependency section */
 		20C8C7541EA90BB700A2C6C3 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 20C8C73A1EA90BB700A2C6C3 /* UnfSwuber */;
+			target = 20C8C73A1EA90BB700A2C6C3 /* Lunchpool */;
 			targetProxy = 20C8C7531EA90BB700A2C6C3 /* PBXContainerItemProxy */;
 		};
 		20C8C75F1EA90BB700A2C6C3 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 20C8C73A1EA90BB700A2C6C3 /* UnfSwuber */;
+			target = 20C8C73A1EA90BB700A2C6C3 /* Lunchpool */;
 			targetProxy = 20C8C75E1EA90BB700A2C6C3 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -418,9 +418,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = UnfSwuber/Info.plist;
+				INFOPLIST_FILE = Lunchpool/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = SwuberCorp.UnfSwuber;
+				PRODUCT_BUNDLE_IDENTIFIER = Lunchpool.Lunchpool;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -430,9 +430,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = UnfSwuber/Info.plist;
+				INFOPLIST_FILE = Lunchpool/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = SwuberCorp.UnfSwuber;
+				PRODUCT_BUNDLE_IDENTIFIER = Lunchpool.Lunchpool;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -443,12 +443,12 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				INFOPLIST_FILE = UnfSwuberTests/Info.plist;
+				INFOPLIST_FILE = LunchpoolTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = SwuberCorp.UnfSwuberTests;
+				PRODUCT_BUNDLE_IDENTIFIER = Lunchpool.LunchpoolTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UnfSwuber.app/UnfSwuber";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Lunchpool.app/Lunchpool";
 			};
 			name = Debug;
 		};
@@ -457,12 +457,12 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				INFOPLIST_FILE = UnfSwuberTests/Info.plist;
+				INFOPLIST_FILE = LunchpoolTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = SwuberCorp.UnfSwuberTests;
+				PRODUCT_BUNDLE_IDENTIFIER = Lunchpool.LunchpoolTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UnfSwuber.app/UnfSwuber";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Lunchpool.app/Lunchpool";
 			};
 			name = Release;
 		};
@@ -470,12 +470,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				INFOPLIST_FILE = UnfSwuberUITests/Info.plist;
+				INFOPLIST_FILE = LunchpoolUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = SwuberCorp.UnfSwuberUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = Lunchpool.LunchpoolUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_TARGET_NAME = UnfSwuber;
+				TEST_TARGET_NAME = Lunchpool;
 			};
 			name = Debug;
 		};
@@ -483,19 +483,19 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				INFOPLIST_FILE = UnfSwuberUITests/Info.plist;
+				INFOPLIST_FILE = LunchpoolUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = SwuberCorp.UnfSwuberUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = Lunchpool.LunchpoolUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_TARGET_NAME = UnfSwuber;
+				TEST_TARGET_NAME = Lunchpool;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		20C8C7361EA90BB700A2C6C3 /* Build configuration list for PBXProject "UnfSwuber" */ = {
+		20C8C7361EA90BB700A2C6C3 /* Build configuration list for PBXProject "Lunchpool" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				20C8C7641EA90BB700A2C6C3 /* Debug */,
@@ -504,7 +504,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		20C8C7661EA90BB700A2C6C3 /* Build configuration list for PBXNativeTarget "UnfSwuber" */ = {
+		20C8C7661EA90BB700A2C6C3 /* Build configuration list for PBXNativeTarget "Lunchpool" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				20C8C7671EA90BB700A2C6C3 /* Debug */,
@@ -512,7 +512,7 @@
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		20C8C7691EA90BB700A2C6C3 /* Build configuration list for PBXNativeTarget "UnfSwuberTests" */ = {
+		20C8C7691EA90BB700A2C6C3 /* Build configuration list for PBXNativeTarget "LunchpoolTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				20C8C76A1EA90BB700A2C6C3 /* Debug */,
@@ -520,7 +520,7 @@
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		20C8C76C1EA90BB700A2C6C3 /* Build configuration list for PBXNativeTarget "UnfSwuberUITests" */ = {
+		20C8C76C1EA90BB700A2C6C3 /* Build configuration list for PBXNativeTarget "LunchpoolUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				20C8C76D1EA90BB700A2C6C3 /* Debug */,
@@ -531,13 +531,13 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		20C8C7451EA90BB700A2C6C3 /* UnfSwuber.xcdatamodeld */ = {
+		20C8C7451EA90BB700A2C6C3 /* Lunchpool.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
-				20C8C7461EA90BB700A2C6C3 /* UnfSwuber.xcdatamodel */,
+				20C8C7461EA90BB700A2C6C3 /* Lunchpool.xcdatamodel */,
 			);
-			currentVersion = 20C8C7461EA90BB700A2C6C3 /* UnfSwuber.xcdatamodel */;
-			path = UnfSwuber.xcdatamodeld;
+			currentVersion = 20C8C7461EA90BB700A2C6C3 /* Lunchpool.xcdatamodel */;
+			path = Lunchpool.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};

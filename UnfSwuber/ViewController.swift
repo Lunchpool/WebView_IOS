@@ -1,9 +1,9 @@
 //
 //  ViewController.swift
-//  UnfSwuber
+//  Lunchpool
 //
 //  Created by Michael Dimmitt on 4/20/17.
-//  Copyright © 2017 SwuberCorp. All rights reserved.
+//  Copyright © 2017 Lunchpool. All rights reserved.
 //
 
 import UIKit
