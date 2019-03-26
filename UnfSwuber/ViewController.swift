@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        let url = URL(string: "https://unf-swuber.herokuapp.com");
+        let url = URL(string: "https://lunchpool-dev.firebaseapp.com");
         let requestObj = URLRequest(url: url!);
         webView.loadRequest(requestObj);
     }
